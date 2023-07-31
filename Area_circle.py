@@ -2,7 +2,7 @@
 # read R
 R = input("pleas input cicle R :")
 # convert R to number
-circle_r = float(R)
+circle_r = float(R)  # First Change
 # calculate R*R
 A = circle_r * circle_r
 pi = 3.1415926
